@@ -234,7 +234,7 @@ CRITICAL: Keep the original face, lips, mouth shape, and framing EXACTLY the sam
                        ) : (
                            <>
                               <Key className="w-5 h-5 mr-2" />
-                              Select API Key
+                              See Your Future Smile
                            </>
                        )}
                      </span>
